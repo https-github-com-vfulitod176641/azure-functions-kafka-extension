@@ -2,6 +2,10 @@
 
 This repository contains a few samples to help you get started quickly with the Kafka extension.
 
+## End to end examples using Confluent Cloud
+Please find an end to end sample using Confluent Cloud
+https://docs.microsoft.com/en-us/samples/azure/azure-functions-kafka-extension-sample-confluent/azure-functions-kafka-extension-sample-using-confluent-cloud/
+
 ## Getting started with Kafka locally
 
 In order to test the sample applications you need to have access to a Kafka instance. We recommend using the Confluent Docker Compose sample to get started with a local Kafka and data generator.
